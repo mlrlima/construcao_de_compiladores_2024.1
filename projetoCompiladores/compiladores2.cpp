@@ -1,4 +1,4 @@
-#include "../../faculdade/projetoCompiladores/includes.hpp";
+#include "../../projetoCompiladores/includes.hpp";
 
 void programa(); //principal, q eh chamada pelo outro arquivo
 
