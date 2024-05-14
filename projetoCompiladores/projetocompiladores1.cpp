@@ -3,7 +3,7 @@ Nome: Maria Luiza Ribeiro de Lima
 RA: 848982
 */
 //#include<bits/stdc++.h>
-#include "../../faculdade/projetoCompiladores/includes.hpp";
+#include "../../projetoCompiladores/includes.hpp";
 
 
 //verificar os tipos de acordo com os vetores abaixo
